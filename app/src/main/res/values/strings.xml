@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JustStart</string>
+    <string name="title_activity_butterknife">Butterknife</string>
+    <string name="tombol_1">Tombol 1</string>
+    <string name="tombol_2">Tombol 2</string>
+    <string name="tombol_3">Tombol 3</string>
+    <string name="tombol_4">Tombol 4</string>
+    <string name="tombol_5">Tombol 5</string>
+</resources>
